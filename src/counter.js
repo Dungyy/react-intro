@@ -7,7 +7,6 @@ export default class Counter extends Component {
         count: props.initialCount
     }  
   }
-    
 
   render() {
       return (
